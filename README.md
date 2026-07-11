@@ -10,20 +10,13 @@ Prevent overwriting files with duplicate names
 Display sorting status in the application
 Simple and user-friendly Tkinter interface
 Standalone Windows executable (.exe)
-Technologies
+
+Liberaries
 Python 3
 Tkinter
 pathlib
 shutil
-Project Structure
-FileOrganizer/
-│
-├── main.py
-├── README.md
-├── requirements.txt
-├── LICENSE
-├── screenshots/
-└── dist/
+
 Supported File Types
 Extension	Destination Folder
 jpg, jpeg, png	Images
@@ -38,7 +31,6 @@ How to Run
 Option 1
 
 Run the Python script:
-
 python main.py
 Option 2
 
